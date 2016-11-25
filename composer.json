@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-editor",
+    "name": "5ini99/think-editor",
     "description": "ThinkPHP5 编辑器 TagLib",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "刘志淳",
-            "email": "chun@engineer.com"
+            "name": "byron sampson",
+            "email": "xiaobo.sun@qq.com"
         }
     ],
     "minimum-stability": "dev",
